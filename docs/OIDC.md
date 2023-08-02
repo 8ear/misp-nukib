@@ -110,3 +110,7 @@ OIDC_CLIENT_CRYPTO_PASS=<random string>
 OIDC_OFFLINE_ACCESS=yes
 OIDC_CHECK_USER_VALIDITY=600
 ```
+
+## Example usage with [Azure AD (Entry ID)](https://learn.microsoft.com/en-us/azure/active-directory/develop/v2-protocols-oidc)https://learn.microsoft.com/en-us/azure/active-directory/develop/v2-protocols-oidc)
+This guide based on the following blog post: https://blindzero.medium.com/apache-openid-authentication-with-azure-ea6d09104c66
+
